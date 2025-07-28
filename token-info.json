@@ -1,0 +1,15 @@
+{
+  "name": "MineYes Algorithmic",
+  "symbol": "MYA",
+  "decimals": 4,
+  "totalSupply": "1000000000",
+  "contractAddress": "0xa159E8282b1b55d330068348229f02d1D474B6f0",
+  "network": "bsc",
+  "chainId": 56,
+  "deploymentDate": "2024-07-28T12:00:00.000Z",
+  "explorerUrl": "https://bscscan.com",
+  "website": "https://mineyes.com",
+  "whitepaper": "https://mineyes.com/assets/mya/doc/MineYes%20Algorithmic%20(MYA)%20%E2%80%93%20Whitepaper.pdf",
+  "description": "MineYes Algorithmic (MYA) is an innovative token dedicated to building a decentralized computing power trading ecosystem on Binance Smart Chain.",
+  "type": "BEP20"
+}
